@@ -1,6 +1,6 @@
 - **Project objective:**
 
-- As a business analyst create a business report based on the order data given by an E-commerce company
+  As a business analyst create a business report based on the order data given by an E-commerce company
 
 - **Purpose of Analysis**
 - Uncovering key business insights and actionable recommendations for strategic growth

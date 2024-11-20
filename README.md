@@ -1,9 +1,10 @@
-- **Project objective:**
 
-  As a business analyst create a business report based on the order data given by an E-commerce company
+***From a distant, unfamiliar stranger to a trusted and supportive companion - this has been my journey with python in the world of data science***
+
+  As a business analyst I need to create a business report based on the order data given by an E-commerce company
 
 - **Purpose of Analysis**
-- Uncovering key business insights and actionable recommendations for strategic growth
+  Uncovering key business insights and actionable recommendations for strategic growth
 
 - ## Technical Skills:
 - [x]	Understanding the overall data and create a summary using pandas.
